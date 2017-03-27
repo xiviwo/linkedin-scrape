@@ -3,12 +3,12 @@ Linkedin Scrape
 
 This tool is aimed to scrape desired talent data on linkedin, include People name, title, location, and current or pass jobs, for example:
 
-`
+```bash
 FirstName LastName
 Sr Executive Warehouse and Logistics Operation. at Huawei telecommunication india pvt ltd.
 Chennai Area, India
 Current: Sr Executive Warehouse and Logistics Operation. at Huawei Telecommunications (India) co.Pvt Ltd.
-`
+```
 
 ## Usage
 
